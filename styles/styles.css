@@ -1,0 +1,251 @@
+/* font section */
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* shared styles */
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.flex {
+  display: flex;
+}
+
+/* nav style */
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 150px;
+  margin-top: 38px;
+  margin-left: 150px;
+  align-items: center;
+  margin-bottom: 70px;
+}
+
+.nav-title {
+  font-size: 28px;
+  font-weight: 1200px;
+}
+
+.nav-button {
+  color: #0d1321;
+  border-radius: 8px;
+  height: 57px;
+  width: 244px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* banner section */
+
+.banner {
+  background-image: url(../assets/Hero-bg.png);
+  text-align: center;
+  margin-top: 0px;
+  padding: 221px 26px;
+}
+
+.banner-button {
+  background-color: black;
+  width: 244px;
+  height: 65px;
+  border-radius: 8px;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.banner-title {
+  font-size: 48px;
+  font-weight: 1200px;
+}
+
+.banner-description {
+  font-size: 16px;
+  color: #0d1321;
+}
+
+/* main section */
+
+main {
+  margin: 150px 70px;
+  padding: 80px;
+}
+
+.main-title {
+  font-size: 32px;
+  font-weight: 1200px;
+  text-align: center;
+}
+
+.main-description {
+  font-size: 16px;
+  color: #0d1321;
+  text-align: center;
+}
+
+/* section style */
+
+.section-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0d1321;
+}
+
+.section-description {
+  font-size: 16px;
+  color: #0d1321;
+}
+
+.Btn-learn {
+  height: 47px;
+  width: 171px;
+  color: #0d1321;
+}
+
+.section-1 {
+  padding: 48px;
+  width: 946px;
+  height: 336px;
+  margin: auto;
+}
+.section-2 {
+  padding: 48px;
+  width: 946px;
+  height: 336px;
+  margin: auto;
+}
+.section-3 {
+  padding: 48px;
+  width: 946px;
+  height: 336px;
+  margin: auto;
+}
+
+.img-1 {
+  float: right;
+}
+
+.img-2 {
+  float: left;
+}
+
+.img-3 {
+  float: right;
+}
+
+/* my inspirition section */
+
+.inpirition {
+  text-align: center;
+  margin-top: 90px;
+  max-width: auto;
+}
+
+.video-section {
+  margin-top: 48px;
+  /* padding: 32px; */
+  border-radius: 50px;
+  max-width: 100%;
+}
+
+/* my target section */
+
+.target {
+}
+
+.skill-container {
+  display: flex;
+  gap: 50px;
+  height: auto;
+  width: auto;
+  border-radius: 16px;
+  float: left;
+  margin-top: 20px;
+}
+
+.skills-1 {
+  background-color: #FFF6F4;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.skills-2 {
+  background-color: #F2F6FE;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.skills-3 {
+  background-color: #FFFDF2;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+/* i need support */
+
+.support {
+  background-image: url(../assets/handshake.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 300px;
+  text-align: center;
+  padding: 64px;
+  border-radius: 16px;
+}
+
+.section-title-1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.section-description-1 {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.btn-submit {
+  font-size: 20px;
+  font-weight: 600;
+  height: 57px;
+  width: 120px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  color: #0d1321;
+}
+
+.text {
+  justify-content: space-around center;
+}
+
+.comment {
+  width: 548px;
+  height: 57px;
+  border-radius: 8px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+/* footer */
+
+.footer {
+  margin: 32px 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hdjsdh {
+  padding: 100px;
+  position: relative;
+}
